@@ -9,8 +9,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "browserstack-local": "^1.3.7",
+    "fs": "0.0.1-security",
     "jasmine-spec-reporter": "^4.2.1",
+    "node-uuid": "^1.4.8",
     "protractor-jasmine2-html-reporter": "0.0.7",
-    "shortid": "^2.2.14"
+    "shortid": "^2.2.14",
+    "visualreview-protractor": "^0.3.0"
   }
 }
